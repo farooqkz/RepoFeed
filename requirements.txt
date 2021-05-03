@@ -1,2 +1,3 @@
 Flask
 lmdb
+git+https://github.com/svpino/rfeed
